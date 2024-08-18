@@ -1,4 +1,5 @@
 # Minecraft-Example-RessourcePack
-![icon512 | height=10](https://github.com/user-attachments/assets/6182869f-a4ee-4c0c-afd9-6b34db98592f)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
+<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://private-user-images.githubusercontent.com/87574028/358887097-6182869f-a4ee-4c0c-afd9-6b34db98592f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5NjE0MDksIm5iZiI6MTcyMzk2MTEwOSwicGF0aCI6Ii84NzU3NDAyOC8zNTg4ODcwOTctNjE4Mjg2OWYtYTRlZS00YzBjLWFmZDktNmIzNGRiOTg1OTJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE4VDA2MDUwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyNTg0M2ViODlmNmM5NjY4MjU2NTg0NTg0ZTU5MDM1NDczYzU1ODAwMmNjM2E4ZTM2NzYxOTE2ZWMyYzc4YTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.it0V47B0n2TuT19qsDkgtG_uuGvc2ILa9OaTvMAxlec)" width="200" height="200" />
+
 This is a blank ressource pack with all directories and files to get started and experiment.
